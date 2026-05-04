@@ -4,7 +4,7 @@
 #### [L0] DATA & PERFORMANCE PLANE
 *   **Languages:** `Java` / `Golang` / `Rust`
 *   **Vector Ops:** `Pinecone` / `Milvus` / `Weaviate` / `pgvector`
-*   **Infrastructure:** `Kubernetes (K8s)` / `gRPC` / `Kafka` / `Docker`
+*   **Infrastructure:** `Kubernetes (K8s)` / `gRPC` / `Kafka` / `Docker` / `Podman`
 *   **Storage:** `PostgreSQL` / `Redis` / `MongoDB` / `Elasticsearch`
 
 #### [L1] AI ORCHESTRATION & LOGIC
