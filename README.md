@@ -32,4 +32,4 @@ LATENCY_OPTIM     [██████████████████▒▒]
 ```
 
 ### 📡 CONNECT
-* Email: me@sololc.com
+
