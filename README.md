@@ -19,7 +19,6 @@
 
 #### [L3] OPERATIONS & DELIVERY
 *   **DevOps:** `GitHub Actions` / `Wrangler` / `Terraform`
-*   **Compliance:** `Remote.com` / `Deel` / `Enterprise-Grade Security Hardening`
 
 ---
 
